@@ -2,7 +2,7 @@
 
 > A fantastic project to measure anyone's BMI! With HTML, CSS and JavaScript
 
-> see the project : 
+> see the project : https://vtkaue.github.io/Calculadora-IMC/
 
 
 <img src="./assets/projectFinalized1.png"  widht="250px" alt="Calculadora IMC">
